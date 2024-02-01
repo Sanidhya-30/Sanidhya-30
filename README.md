@@ -17,8 +17,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a> -->
- </div>
-<img src="https://giphy.com/gifs/GEICO-robot-why-dismay-CjIYBczW2FeuHs8Yuj" width="200"/> 
+</div>
 </div>
 
 ---
@@ -27,19 +26,26 @@
 
 - :seedling: Experienced in and exploring robotic perception and navigation.
 
-- :zap: In my free time, I like to watch tech videos on youtube and scroll through subreddits.
+- :zap: In my free time, I like to watch tech videos on YouTube and scroll through subreddits.
 
 - :bulb: Research exposure: Automated Guided Vehicles.
 
-- :scroll: Work history in ROS (AMRs, drone autopilot and manipulators), Robotic Simulations, embedded, Sensor Integration, Computer Vision in past projects with C++ and python as preferred programming languages.
+- :scroll: Work history in ROS (AMRs, drone autopilot and manipulators), Robotic Simulations, embedded, Sensor Integration, Computer Vision in past projects with C++ and Python as preferred programming languages.
 
 <!-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-AnveshSom-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
 
 
 ---
 
+
+<img width="80%" align="centre" src="https://media.giphy.com/media/CjIYBczW2FeuHs8Yuj/giphy.gif?cid=790b7611dvpqhk7ac39s5nhll31415y0vs13hz7lec83gq8i&ep=v1_gifs_search&rid=giphy.gif&ct=g" /> 
+
+
+---
+
+
 <!--TOOLS-->
-<div id="header" align="left">
+<div id="header" align="middle">
   <h3>
   :hammer_and_wrench: Languages and Tools :
 </h3>
@@ -56,7 +62,23 @@
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="50" height="40"/>&nbsp;-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/Linux_Logo_in_Linux_Libertine_Font.svg" title="GNU/LINUX" alt="GNU/LINUX" width="40"/>&nbsp;
 </div>
+
+
 ---
+
+<p align="center">
+<img src="https://media.giphy.com/media/RVWSqOsgDAq0W3051o/giphy.gif" width="320px" align="right"/>
+</p>
+
+<a  href="https://github.com/Sanidhya-30"> 
+  
+<img alt="SP-XD's github stats" width="50%" src="https://github-readme-stats.vercel.app/api?username=Sanidhya-30&show_icons=true&count_private=true&hide_border=true&bg_color=50,e96205,904e99&title_color=fff&text_color=fff&icon_color=f2f2f2" href="https://github.com/Sanidhya-30" />
+
+<img alt="Top Langs" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanidhya-30&layout=compact&count_private=true&&hide_border=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" href="https://github.com/Sanidhya-30" />
+
+</a>
+
+
 
 <!--
 GITHUB STATS

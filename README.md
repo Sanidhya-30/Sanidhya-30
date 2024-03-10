@@ -82,6 +82,9 @@
 ---
 
 
+
+![Snake animation](https://github.com/{{Sanidhya-30}}/{{Sanidhya-30}}/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 GITHUB STATS
 
